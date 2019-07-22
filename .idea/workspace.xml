@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="29e39f30-948f-4b97-89e5-d97fe5c38cd7" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-01.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,9 +33,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-2560" />
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
+    <option name="x" value="180" />
+    <option name="y" value="112" />
+    <option name="width" value="1080" />
+    <option name="height" value="676" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -89,17 +89,26 @@
       <workItem from="1562024030214" duration="2952000" />
       <workItem from="1562048325290" duration="541000" />
       <workItem from="1562049133321" duration="7802000" />
-      <workItem from="1562080839831" duration="2485000" />
+      <workItem from="1562080839831" duration="3559000" />
+      <workItem from="1563015587412" duration="27000" />
     </task>
+    <task id="LOCAL-00001" summary="作业完成提交">
+      <created>1562136112757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562136112757</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13780000" />
+    <option name="totallyTimeSpent" value="14881000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2560" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.011914218" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.021459227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -110,10 +119,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32919708" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32891566" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -124,6 +133,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="作业完成提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="作业完成提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assignment-01.ipynb">
