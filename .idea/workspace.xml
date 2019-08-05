@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29e39f30-948f-4b97-89e5-d97fe5c38cd7" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP-lesson/NLP-course/lesson-02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP-lesson/NLP-course/lesson-02.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="29e39f30-948f-4b97-89e5-d97fe5c38cd7" name="默认更改列表" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +104,7 @@
       <workItem from="1562080839831" duration="3559000" />
       <workItem from="1563015587412" duration="27000" />
       <workItem from="1563808200338" duration="1856000" />
-      <workItem from="1564063206136" duration="3917000" />
+      <workItem from="1564063206136" duration="4434000" />
     </task>
     <task id="LOCAL-00001" summary="作业完成提交">
       <created>1562136112757</created>
@@ -130,15 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1564708030489</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="assignment03">
+      <created>1564967280166</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564967280167</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20654000" />
+    <option name="totallyTimeSpent" value="21171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1874106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -170,7 +173,8 @@
     <MESSAGE value="作业完成提交" />
     <MESSAGE value="作业提交" />
     <MESSAGE value="code reproduction" />
-    <option name="LAST_COMMIT_MESSAGE" value="code reproduction" />
+    <MESSAGE value="assignment03" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment03" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assignment-01.ipynb" />
